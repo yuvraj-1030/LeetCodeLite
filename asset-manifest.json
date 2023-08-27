@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LeetCodeLite/static/css/main.d50945b7.css",
-    "main.js": "/LeetCodeLite/static/js/main.5caa1747.js",
+    "main.js": "/LeetCodeLite/static/js/main.60cfc363.js",
     "static/js/27.07bc2567.chunk.js": "/LeetCodeLite/static/js/27.07bc2567.chunk.js",
     "static/media/reverseLL.jpg": "/LeetCodeLite/static/media/reverseLL.f4408f6018c7d6880906.jpg",
     "static/media/search-a-2d-1.jpg": "/LeetCodeLite/static/media/search-a-2d-1.930a28aa5ae16cfb4d16.jpg",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.d50945b7.css",
-    "static/js/main.5caa1747.js"
+    "static/js/main.60cfc363.js"
   ]
 }
